@@ -6,6 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Hyo Jin
 middle_name: 
 last_name: Jon
+email: hyojin2011@gmail.com
 contact_note: 
 # >
   # You can even add a little note about which of these is the best way to reach you.
@@ -207,10 +208,10 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - _news/announcement_*.md
-  - _pages/blog.md
-  - _posts/
-  - _projects/?_project.md
+  # - _news/announcement_*.md
+  # - _pages/blog.md
+  # - _posts/
+  # - _projects/?_project.md
 keep_files:
   - CNAME
   - .nojekyll
