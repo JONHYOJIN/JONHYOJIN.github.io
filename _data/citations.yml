@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-03-20'
+  last_updated: '2026-04-06'
 papers:
   mgHId7QAAAAJ:2osOgNQ5qMEC:
-    citations: 30
+    citations: 31
     title: "Consen: Complementary and simultaneous ensemble for alzheimer\u2019s disease detection and mmse score prediction"
     year: '2023'
   mgHId7QAAAAJ:9yKSN-GCB0IC:
@@ -26,7 +26,7 @@ papers:
     title: "\uC74C\uC545 \uC18C\uB9AC\uC5D0 \uB300\uD55C \uBC18\uC751\uC73C\uB85C\uBD80\uD130 \uAC10\uC815\uC744 \uC778\uC2DD\uD558\uAE30 \uC704\uD55C \uB1CC\uD30C \uAE30\uBC18 \uAC10\uC815\uC778\uC2DD \uD504\uB808\uC784\uC6CC\uD06C"
     year: Unknown Year
   mgHId7QAAAAJ:Y0pCki6q_DkC:
-    citations: 2
+    citations: 3
     title: 'MATER: Multi-level Acoustic and Textual Emotion Representation for Interpretable Speech Emotion Recognition'
     year: '2025'
   mgHId7QAAAAJ:YsMSGLbcyi4C:
