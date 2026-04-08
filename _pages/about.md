@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: #AI Researcher at Voinosis Inc. in Seoul, South Korea
 # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
