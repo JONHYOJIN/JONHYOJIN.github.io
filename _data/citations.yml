@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-01'
+  last_updated: '2026-06-29'
 papers:
   mgHId7QAAAAJ:2osOgNQ5qMEC:
     citations: 34
@@ -18,13 +18,17 @@ papers:
     title: Watermark and Trademark Prompts Boost Video Action Recognition in Visual-Language Models
     year: '2025'
   mgHId7QAAAAJ:UeHWp8X0CEIC:
-    citations: 0
+    citations: 1
     title: "Identifying Alzheimer\u2019s Disease Across Cognitive Impairment Spectrum Using Acoustic Features Only"
     year: '2025'
   mgHId7QAAAAJ:W7OEmFMy1HYC:
     citations: 0
     title: "\uC74C\uC545 \uC18C\uB9AC\uC5D0 \uB300\uD55C \uBC18\uC751\uC73C\uB85C\uBD80\uD130 \uAC10\uC815\uC744 \uC778\uC2DD\uD558\uAE30 \uC704\uD55C \uB1CC\uD30C \uAE30\uBC18 \uAC10\uC815\uC778\uC2DD \uD504\uB808\uC784\uC6CC\uD06C"
     year: Unknown Year
+  mgHId7QAAAAJ:WF5omc3nYNoC:
+    citations: 0
+    title: "Enhancing Early Detection of Alzheimer\u2019s Disease: An Ensemble Model for Multi-Domain Cognitive Assessment Using Voice and Video"
+    year: '2026'
   mgHId7QAAAAJ:Y0pCki6q_DkC:
     citations: 3
     title: 'MATER: Multi-level Acoustic and Textual Emotion Representation for Interpretable Speech Emotion Recognition'
