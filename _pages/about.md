@@ -29,6 +29,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Hyo Jin Jon, an AI researcher at [Voinosis Inc.](https://voinosis.com/) in Seoul, South Korea. I received my Master’s degree in Computer Science and Engineering from Konkuk University, where I was advised by [Professor Eun Yi Kim](https://ai-cv-lab.github.io/aicv.github.io/).
+Hi, I’m Hyo Jin Jon, a Ph.D. student in Computer Science at the College of William & Mary, where I am advised by [Professor Ashley Ye Gao](https://lindagaw.github.io/). Previously, I received my Master’s degree in Computer Science and Engineering from Konkuk University under the supervision of [Professor Eun Yi Kim](https://ai-cv-lab.github.io/aicv.github.io/).
 
 My research focuses on building AI systems that can genuinely understand human emotions and advancing interpretable AI for healthcare applications.
