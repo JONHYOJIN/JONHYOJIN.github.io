@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-06-29'
+  last_updated: '2026-08-10'
 papers:
   mgHId7QAAAAJ:2osOgNQ5qMEC:
-    citations: 34
+    citations: 35
     title: "Consen: Complementary and simultaneous ensemble for alzheimer\u2019s disease detection and mmse score prediction"
     year: '2023'
   mgHId7QAAAAJ:9yKSN-GCB0IC:
@@ -10,12 +10,12 @@ papers:
     title: EEG-based Emotion Estimation with Bernoulli Penalty and Weighted MSE-CE
     year: '2023'
   mgHId7QAAAAJ:IjCSPb-OGe4C:
-    citations: 7
+    citations: 8
     title: 'EEG-RegNet: regressive emotion recognition in continuous VAD space using EEG signals'
     year: '2024'
   mgHId7QAAAAJ:Tyk-4Ss8FVUC:
     citations: 2
-    title: Watermark and Trademark Prompts Boost Video Action Recognition in Visual-Language Models
+    title: Watermark and trademark prompts boost video action recognition in visual-language models
     year: '2025'
   mgHId7QAAAAJ:UeHWp8X0CEIC:
     citations: 1
